@@ -1,4 +1,4 @@
-# Servlet based Hello World app for App Engine Flexible environment
+# Docusign API  for App Engine Flexible environment
 
 ## Requirements
 * [Apache Maven](http://maven.apache.org) 3.3.9 or greater
